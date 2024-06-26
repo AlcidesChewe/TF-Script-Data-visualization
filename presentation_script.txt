@@ -1,0 +1,16 @@
+
+Slide 1: Introducción
+- Breve introducción sobre el análisis del comportamiento de compra de libros en Amazon.
+
+Slide 2: Hipótesis Seleccionadas
+- Hipótesis 1: Las reseñas con más votos útiles tienen mejores calificaciones.
+- Hipótesis 2: Las reseñas más votadas tienden a ser más recientes.
+- Hipótesis 3: Las calificaciones generales más altas tienen más votos útiles.
+
+Slide 3: Análisis y Visualizaciones
+- Explicación de la relación entre votos útiles y calificación general (Gráfico: votos_utiles_vs_calificacion.png).
+- Explicación de la relación entre antigüedad de la reseña y número de votos totales (Gráfico: antiguedad_vs_votos_totales.png).
+- Explicación de la relación entre calificación general y número de votos totales (Gráfico: calificacion_vs_votos_totales.png).
+
+Slide 4: Conclusiones
+- Resumen de los hallazgos y cómo estos pueden influir en la estrategia de negocio de Amazon para motivar la lectura en segmentos digitales.
